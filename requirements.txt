@@ -1,0 +1,13 @@
+streamlit
+fastapi
+sentence-transformers
+numpy
+faiss-cpu
+python-docx
+PyMuPDF
+google-generativeai
+python-dotenv
+beautifulsoup4
+requests
+pandas
+openpyxl
